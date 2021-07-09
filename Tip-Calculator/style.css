@@ -107,3 +107,6 @@ body{
     color:White;
     font-size: 1.5rem;
   }
+a{
+    color: yellow;
+    margin-left: 5px
